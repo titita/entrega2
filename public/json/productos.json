@@ -7,7 +7,8 @@
         "modelo": "Y510P",
         "precio": 60000,
         "stock": 30,
-        "img": "notebook-lenovo.jpg"
+        "img": "notebook-lenovo.jpg",
+        "category":"compu"
     },
     {
         "id": 2,
@@ -17,7 +18,8 @@
         "modelo": "Mi-9",
         "precio": 35000,
         "stock": 20,
-        "img": "xiaomi-mi-9.jpg"
+        "img": "xiaomi-mi-9.jpg",
+        "category":"celus"
     },
     {
         "id": 3,
@@ -27,7 +29,8 @@
         "modelo": "50D1U",
         "precio": 57000,
         "stock": 15,
-        "img": "smart-tv-novatech.jpg"
+        "img": "smart-tv-novatech.jpg",
+        "category":"teles"
     },
     {
         "id": 4,
@@ -38,6 +41,7 @@
         "precio": 8000,
         "stock": 30,
         "img": "camara-iqual.jpg"
+
     },
     {
         "id": 5,
@@ -57,7 +61,8 @@
         "modelo": "Pulse",
         "precio": 4000,
         "stock": 20,
-        "img": "motorola-pulse.jpg"
+        "img": "motorola-pulse.jpg",
+        "category":"auris"
     },
     {
         "id": 7,
