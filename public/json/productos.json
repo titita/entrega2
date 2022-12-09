@@ -1,36 +1,36 @@
 [
     {
         "id": 1,
-        "idCategoria": 1,
+        "idCategoria": "compu",
         "nombre": "Notebook",
         "marca": "Lenovo",
         "modelo": "Y510P",
         "precio": 60000,
         "stock": 30,
-        "img": "notebook-lenovo.jpg",
-        "category":"compu"
+        "img": "notebook-lenovo.jpg"
+       
     },
     {
         "id": 2,
-        "idCategoria": 2,
+        "idCategoria": "celus",
         "nombre": "Celular",
         "marca": "Xiomi",
         "modelo": "Mi-9",
         "precio": 35000,
         "stock": 20,
-        "img": "xiaomi-mi-9.jpg",
-        "category":"celus"
+        "img": "xiaomi-mi-9.jpg"
+        
     },
     {
         "id": 3,
-        "idCategoria": 3,
+        "idCategoria": "teles",
         "nombre": "Smart Tv",
         "marca": "Novatech",
         "modelo": "50D1U",
         "precio": 57000,
         "stock": 15,
-        "img": "smart-tv-novatech.jpg",
-        "category":"teles"
+        "img": "smart-tv-novatech.jpg"
+   
     },
     {
         "id": 4,

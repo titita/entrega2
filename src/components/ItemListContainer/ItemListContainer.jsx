@@ -11,7 +11,8 @@ const ItemListContainer = () => {
     useEffect(() => {
             if(category) {
                 consultarBDD().then(products => {
-                    const productsList= products.filter(prod => prod.stock > 0).filter(prod => prod.idCategoria === parseInt(category))
+              
+                    const productsList= products.filter(prod => prod.stock > 0).filter(prod => prod.idCategoria === category)
                     const cardProductos = ItemList({productsList})
                     setProductos(cardProductos)
                 })
