@@ -7,7 +7,7 @@
         "modelo": "Y510P",
         "precio": 60000,
         "stock": 30,
-        "img": "notebook-lenovo.jpg"
+        "img": "compu.jpg"
        
     },
     {
@@ -18,18 +18,18 @@
         "modelo": "Mi-9",
         "precio": 35000,
         "stock": 20,
-        "img": "xiaomi-mi-9.jpg"
+        "img": "celu.webp"
         
     },
     {
         "id": 3,
-        "idCategoria": "teles",
+        "idCategoria": "tele",
         "nombre": "Smart Tv",
         "marca": "Novatech",
         "modelo": "50D1U",
         "precio": 57000,
         "stock": 15,
-        "img": "smart-tv-novatech.jpg"
+        "img": "tele.jpg"
    
     },
     {
@@ -40,7 +40,7 @@
         "modelo": "C40",
         "precio": 8000,
         "stock": 30,
-        "img": "camara-iqual.jpg"
+        "img": "camara.jpg"
 
     },
     {
@@ -51,18 +51,18 @@
         "modelo": "G502",
         "precio": 1400,
         "stock": 7,
-        "img": "mouse-logitech.jpg"
+        "img": "mouse.jpg"
     },
     {
         "id": 6,
-        "idCategoria": 4,
+        "idCategoria": "auris",
         "nombre": "Auriculares",
         "marca": "Motorola",
         "modelo": "Pulse",
         "precio": 4000,
         "stock": 20,
-        "img": "motorola-pulse.jpg",
-        "category":"auris"
+        "img": "motorola-pulse.jpg"
+       
     },
     {
         "id": 7,

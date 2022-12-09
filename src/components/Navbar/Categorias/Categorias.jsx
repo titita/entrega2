@@ -13,17 +13,17 @@ const Categorias = () => {
                 </li>
                 <li className="nav-link">
                     
-                        <button className='btn btn-secondary'><Link className="nav-link" to={"/category/2"}><i className="fas fa-mobile fa-lg"></i></Link></button>
+                        <button className='btn btn-secondary'><Link className="nav-link" to={"/category/celus"}><i className="fas fa-mobile fa-lg"></i></Link></button>
                     
                 </li>
                 <li className="nav-link">
                
-                        <button className='btn btn-secondary'><Link className="nav-link" to={"/category/3"}><i className="fas fa-tv fa-lg"></i></Link></button>
+                        <button className='btn btn-secondary'><Link className="nav-link" to={"/category/tele"}><i className="fas fa-tv fa-lg"></i></Link></button>
                     
                 </li>
                 <li className="nav-link">
                    
-                        <button className='btn btn-secondary'><Link className="nav-link" to={"/category/4"}><i className="fas fa-headphones fa-lg"></i></Link></button>
+                        <button className='btn btn-secondary'><Link className="nav-link" to={"/category/auris"}><i className="fas fa-headphones fa-lg"></i></Link></button>
                     
                 </li>
             </ul>
