@@ -8,7 +8,7 @@ const Categorias = () => {
                 </li>
                 <li className="nav-link">
                     
-                        <button className='btn btn-secondary'><Link className="nav-link" to={"/category/1"}><i className="fas fa-laptop fa-lg"></i></Link></button>
+                        <button className='btn btn-secondary'><Link className="nav-link" to={"/category/compu"}><i className="fas fa-laptop fa-lg"></i></Link></button>
                     
                 </li>
                 <li className="nav-link">
