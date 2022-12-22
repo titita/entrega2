@@ -1,32 +1,70 @@
 .cardProducto {
+    margin: 30px;
     width: 18rem;
-    margin: 4px;
-    background-color: hsl(0, 0%, 97%);
-}
-
-.cardBody {
-    background-color: white;
-    margin-bottom: 3px;
+    
     text-align: center;
 }
 
-img {
-    margin-top:3px;
+.cardProductoDetail {
+    margin: 100px;
+    width: 18rem;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 
-.cardProductos {
-    margin: 4px;
-    align-items:center;
+.cardProductoDetailDark{
+    margin: 30px;
+    width: 18rem;
+    text-align: center;
+    color: rgb(2, 2, 84);
+    
+}
+
+.cardProductoDark{
+    margin: 30px;
+    width: 18rem;
+    text-align: center;
+    color: rgb(2, 2, 84);
+    
+}
+
+.contenedorCardsProductos{
+    margin-top:120px;
     justify-content: center;
 }
 
-.cartWidget {
-    position: relative;
-    left: 33%;
-    color:white;
+.itemDetail{
+    width: 20rem;
+    margin-top: 150px;
 }
 
-.cantCarrito {
+.espaciadoNav{
+    margin-top: 130px;
+}
+
+.formCheckout{
+    margin-left: 30%;
+    margin-bottom: 30%;
+    margin-right: 30%;
+}
+
+.contadorCarrito{
     position: relative;
-    left: 13%;
+    left: 20%;
+}
+
+.cardBodyDark{
+    background-color: white;
+    text-align: center;
+    color: rgb(2, 2, 84);
+}
+
+.darkMode{
+    color: white;
+    background-color: black;
 }

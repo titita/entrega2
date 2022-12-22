@@ -7,7 +7,7 @@
         "modelo": "Y510P",
         "precio": 60000,
         "stock": 30,
-        "img": "compu.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/myapp-react-2022.appspot.com/o/computa.jpg?alt=media&token=fdc99770-3d56-41aa-b4c5-6228efe89fab"
        
     },
     {
@@ -18,7 +18,7 @@
         "modelo": "Mi-9",
         "precio": 35000,
         "stock": 20,
-        "img": "celu.webp"
+        "img": "https://firebasestorage.googleapis.com/v0/b/myapp-react-2022.appspot.com/o/celu.webp?alt=media&token=17230afd-6837-4c61-9a65-fe2025ee1645"
         
     },
     {
@@ -29,7 +29,7 @@
         "modelo": "50D1U",
         "precio": 57000,
         "stock": 15,
-        "img": "tele.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/myapp-react-2022.appspot.com/o/tele.jpg?alt=media&token=ec1869e1-d70e-4181-9bf4-05a59f157f7c"
    
     },
     {
@@ -40,7 +40,7 @@
         "modelo": "C40",
         "precio": 8000,
         "stock": 30,
-        "img": "camara.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/myapp-react-2022.appspot.com/o/camara.jpg?alt=media&token=52a4570d-ae14-456b-af2e-c3eed8e9247b"
 
     },
     {
@@ -51,7 +51,7 @@
         "modelo": "G502",
         "precio": 1400,
         "stock": 7,
-        "img": "mouse.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/myapp-react-2022.appspot.com/o/mouse.jpg?alt=media&token=68b59b88-ee6f-41d0-82ed-faa26a2565a1"
     },
     {
         "id": 6,
@@ -61,68 +61,68 @@
         "modelo": "Pulse",
         "precio": 4000,
         "stock": 20,
-        "img": "motorola-pulse.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/myapp-react-2022.appspot.com/o/auricular.jpg?alt=media&token=73c30b6a-5254-47e1-8f7a-2a07c3ae34f3"
        
     },
     {
         "id": 7,
-        "idCategoria": 2,
+        "idCategoria": "celus",
         "nombre": "Celular",
         "marca": "Apple",
         "modelo": "Iphone X Silver",
         "precio": 250000,
         "stock": 10,
-        "img": "iphone-x.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/myapp-react-2022.appspot.com/o/celu.webp?alt=media&token=17230afd-6837-4c61-9a65-fe2025ee1645"
     },
     {
         "id": 8,
-        "idCategoria": 3,
+        "idCategoria": "tele",
         "nombre": "Apple TV",
         "marca": "Apple ",
         "modelo": "32 Gb",
         "precio": 45000,
         "stock": 30,
-        "img": "apple-tv.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/myapp-react-2022.appspot.com/o/tele.jpg?alt=media&token=ec1869e1-d70e-4181-9bf4-05a59f157f7c"
     },
     {
         "id": 9,
-        "idCategoria": 4,
+        "idCategoria": "auris",
         "nombre": "Parlante",
         "marca": "Kalley",
         "modelo": "SPK200",
         "precio": 34000,
         "stock": 21,
-        "img": "parlante-kalley.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/myapp-react-2022.appspot.com/o/auricular.jpg?alt=media&token=73c30b6a-5254-47e1-8f7a-2a07c3ae34f3"
     },
     {
         "id": 10,
-        "idCategoria": 1,
+        "idCategoria": "auris",
         "nombre": "Mac Air",
         "marca": "Apple",
         "modelo": "M1 2020",
         "precio": 13000,
         "stock": 25,
-        "img": "mac-air.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/myapp-react-2022.appspot.com/o/auricular.jpg?alt=media&token=73c30b6a-5254-47e1-8f7a-2a07c3ae34f3"
     },
     {
         "id": 11,
-        "idCategoria": 2,
+        "idCategoria": "celus",
         "nombre": "Celular",
         "marca": "Samsung",
         "modelo": "S20",
         "precio": 85000,
         "stock": 30,
-        "img": "samsung-s20.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/myapp-react-2022.appspot.com/o/celu.webp?alt=media&token=17230afd-6837-4c61-9a65-fe2025ee1645"
     },
     {
         "id": 12,
-        "idCategoria": 1,
+        "idCategoria": "compu",
         "nombre": "Notebook",
         "marca": "HP",
         "modelo": "Pavilion 15",
         "precio": 120000,
         "stock": 20,
-        "img": "hp-pavilion.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/myapp-react-2022.appspot.com/o/computa.jpg?alt=media&token=fdc99770-3d56-41aa-b4c5-6228efe89fab"
     }
 
 ]
