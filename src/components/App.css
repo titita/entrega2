@@ -1,7 +1,7 @@
 .cardProducto {
     margin: 30px;
     width: 18rem;
-    
+   
     text-align: center;
 }
 
@@ -17,19 +17,11 @@
     
 }
 
-.cardProductoDetailDark{
-    margin: 30px;
-    width: 18rem;
-    text-align: center;
-    color: rgb(2, 2, 84);
-    
-}
 
 .cardProductoDark{
     margin: 30px;
     width: 18rem;
     text-align: center;
-    color: rgb(2, 2, 84);
     
 }
 
@@ -61,7 +53,7 @@
 .cardBodyDark{
     background-color: white;
     text-align: center;
-    color: rgb(2, 2, 84);
+ 
 }
 
 .darkMode{
