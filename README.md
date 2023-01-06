@@ -41,4 +41,7 @@ _Para que el proyecto se logre realizar de una manera esperada utilicé las sigu
 
 ## Capturas de pantalla
 
-![alt text](https://github.com/titita/entrega2/blob/develop/docs/Captura%20de%20pantalla_20230106_161531.png)
+![alt text](https://github.com/titita/entrega2/blob/develop/docs/1.png)
+![alt text](https://github.com/titita/entrega2/blob/develop/docs/2.png)
+![alt text](https://github.com/titita/entrega2/blob/develop/docs/3.png)
+![alt text](https://github.com/titita/entrega2/blob/develop/docs/4.png)
