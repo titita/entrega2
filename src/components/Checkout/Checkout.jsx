@@ -50,17 +50,17 @@ const Checkout = () => {
         const regex = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/i;
 
         if (!values.nombreCompleto) {
-            errors.nombreCompleto = "El nombre y apellido son necesarios";
+            errors.nombreCompleto = "Completa tu nombre y apellido por favor";
         }
 
         if (!values.email) {
-            errors.email = "El email es requerido";
+            errors.email = "Se requiere de un email valido";
         } else if (!regex.test(values.email)) {
             errors.email = "Ese no es un formato valido de email";
         }
 
         if (!values.validateEmail) {
-            errors.validateEmail = "Debe ingresar nuevamente el email";
+            errors.validateEmail = "Repita el email que registro";
         } else if (!regex.test(values.validateEmail)) {
             errors.validateEmail = "Ese no es un formato valido de email";
         } else if (values.validateEmail !== values.email) {
@@ -68,15 +68,15 @@ const Checkout = () => {
         }
 
         if (!values.DNI) {
-            errors.DNI = "Debe ingresar su DNI";
+            errors.DNI = "Falta ingresar su DNI";
         }
 
         if (!values.celular) {
-            errors.celular = "Debe ingresar su celular";
+            errors.celular = "Falta ingresar su numero de celular";
         }
 
         if (!values.direccion) {
-            errors.direccion = "Debe ingresar su direccion";
+            errors.direccion = "Falta ingresar su direccion";
         }
         return errors;
     };
