@@ -5,7 +5,7 @@ _Este es un proyecto realizado para el curso en Coder House, comision 41100 de R
 # Installation git clone 🔧
 _Para acceder al proyecto clonándolo, deberás ejecutar en consola:_
 
-git clone  *ACA VA LA URL DEL PROYECTO*
+git clone  https://github.com/titita/entrega2.git
 npm install 
 npm start
 
@@ -15,7 +15,9 @@ Descomprimir el archivo
 En la carpeta donde se encuentra “package.json” ejecutar en terminal: 
 npm install
 npm start
-Tecnologías principales:
+
+# Tecnologías principales:
+
 🛠️ React JS
 
 🛠️ JavaScript
