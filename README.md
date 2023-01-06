@@ -37,3 +37,6 @@ _Para que el proyecto se logre realizar de una manera esperada utilicé las sigu
 
 ⚡ Firebase
 
+## Capturas de pantalla
+
+![alt text](https://github.com/titita/entrega2/blob/develop/docs/Captura%20de%20pantalla_20230106_161531.png)
