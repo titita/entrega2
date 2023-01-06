@@ -7,7 +7,7 @@ export const useCarritoContext = () => useContext(CarritoContext)
 export const CarritoProvider = (props) =>{
     const [carrito, setCarrito] = useState([]);
     const isInCart = (id) =>{
-        return carrito.find(producto => producto.id = id);
+        return carrito.find(producto => producto.id === id);
     }
     const addItem = (producto, cantidad)=>{
         if (isInCart(producto.id)){
