@@ -5,7 +5,7 @@ import BotonDarkMode from './BotonDarkMode/BotonDarkMode';
 import { useDarkModeContext } from '../../context/DarkModeContext';
 
 const Navbar = () => {
-    const {darkMode} = useDarkModeContext();
+    const { darkMode } = useDarkModeContext();
     return (
         <nav className={`navbar navbar-expand-xl navbar-light" ${darkMode ? 'navbarPersonal' : 'bg-dark'}`}>
             <div className="container-fluid">
@@ -16,7 +16,7 @@ const Navbar = () => {
                 <div className="collapse navbar-collapse show" id="navbarLight">
                     <Categorias />
                     <CartWidget />
-                    <BotonDarkMode/>
+                    <BotonDarkMode />
                 </div>
             </div>
         </nav>
